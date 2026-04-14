@@ -1,0 +1,18 @@
+AI Energy Forecasting — Evaluation Results
+=============================================
+RMSE  (kWh): 0.0848
+MAE   (kWh): 0.0674
+MAPE  (%)  : 16.21
+R²  Score  : 0.9385
+
+Feature Importances
+------------------------------
+lag_24h               : 0.317597
+lag_168h              : 0.287571
+hour                  : 0.232932
+lag_1h                : 0.114053
+rolling_mean_24h      : 0.026772
+rolling_std_24h       : 0.013954
+month                 : 0.003254
+day_of_week           : 0.002805
+is_weekend            : 0.001062
