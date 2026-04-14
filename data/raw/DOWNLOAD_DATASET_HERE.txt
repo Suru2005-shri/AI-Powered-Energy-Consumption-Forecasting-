@@ -1,0 +1,3 @@
+# Place household_power_consumption.txt here
+# Download from: https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
+# Or run: python main.py --generate   (creates synthetic data automatically)
